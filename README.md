@@ -50,12 +50,77 @@ Administrator Role in Jetton Donation
 
 The Jetton code allows a special administrator role (the wallet address of the deployer) to mint new tokens for themselves and change metadata. This functionality is necessary for the initial launch, because that's how new Jettons come into circulation. After mint is finished, you need to revoke your administrator rights by changing admin to an empty address. In Jetton Donation address: null. Revoking the administrator role ensures that no one will ever be able to mint new tokens in the future and lower the Jetton price.
 
+# How create LP TON/JTON/DON
 ## DEX
 __DonationSwap__ is a DEX/AMM using the Uniswap V2 curve to create liquidity pairs and allow traders to swap jettons and liquidity providers to supply liquidity and earn rewards.
 
 ## Liquidity
 * [DON-JTON LP Contract](https://tonscan.org/jetton/EQD6EKBOHIxy3DU6wzFm4FbQNcVEZn0x0t3xIPVNPeDKR-Qz)
 * [DON AMM Contract](https://tonverifier.live/EQCIaJJXSZjOvrchgXXOy90PIS51mMOXMBcmlkUvnIKk9Od5)
+
+## [Dedust](https://dedust.io)
+
+![Dedust](/img/dedust.png)
+
+Open [dedust.io](https://dedust.io/dex/liquidity) 
+
+![Connect](/img/connect.png)
+
+Choose a Wallet
+
+![Wrapped](/img/wrapped.png)
+
+Wrapped TON
+
+![Amount](/img/amount.png)
+
+![Confirm](/img/confirm.png)
+
+![Received](/img/received.png)
+
+![Activate](/img/activate.png)
+
+Press `Activate
+
+![Tx](/img/tx.png)
+
+Confirm
+
+![New](/img/new.png)
+
+Press `New Position`
+
+![Address](/img/address.png)
+
+Add address Donation Jetton `EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR`
+
+![JTONDON](/img/jtondon.png)
+
+Press `Connect JTON / DON`
+
+![Pair](/img/pair.png)
+
+Pair was succesfully connected!
+
+![Deposit](/img/deposit.png)
+
+Press `Deposit JTON`
+
+![DEPJTON](/img/depjton.png)
+
+Deposited
+
+![DEPDON](/img/depdon.png)
+
+Press `Deposit Donation`
+
+![DEPDONCON](/img/depdoncreate.png)
+
+Deposited
+
+![Liquidity](/img/liquidity.png)
+
+You created liquidity position!
 
 ## Source Code
 ### jetton-minter.fc
@@ -825,7 +890,11 @@ int version() method_id {
 
 ### 
 
+
+
 ## Logo
+
+
 
 ## License
 [CC0](https://github.com/mir-one/donation/blob/main/LICENSE)
