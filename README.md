@@ -15,6 +15,18 @@ Is a gift for charity, humanitarian aid, or to benefit a cause.
 |TON Assets |[TON Community jetton Donation](https://github.com/ton-community/ton-assets/blob/main/jettons/donation.yaml) |
 |Telegram |[Donation Jetton](https://t.me/donation_jetton) |
 
+```json
+"EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR": {
+        name: "Donation",
+        ammMinter: "EQCIaJJXSZjOvrchgXXOy90PIS51mMOXMBcmlkUvnIKk9Od5",
+        tokenMinter: "EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR",
+        displayName: "DON",
+        image: "https://cache.tonapi.io/imgproxy/FDcUw2JFUphF2irJPrZdQP-Uz9R2urTvJtvjAaXFDNE/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvYmFma3JlaWhwcW5ramNmd2ZpcGVrZ2o3Z3RwY2hiNmFkbm83czZ5ZGlnb25iaHN2d3hkbWV4NWF3YXU.webp",
+        color: "#0061d2",
+        decimals: 9,
+    },
+```
+
 ## Verification Proof
 
 |Status | Public Key| IP | 	Verification date | Verifier |
