@@ -905,11 +905,42 @@ int version() method_id {
 
 ```
 
-## Brand assets
-### Logo
+
+## Sell Donation
+It is necessary to deploy different economic models, without being tied to one type of asset. How to measure the cost of DON? Donation - voluntary contribution, from the heart: Is a gift for charity, humanitarian aid, or to benefit a cause. What is the value of a donation? 
+
+If you have your own tokens, you can block, for example, provide 10% of incoming DON to LP - DON - Jetton (any ID) These tokens are included in the list of address asset [TON Community assets](https://github.com/ton-community/ton-assets/commit/5651641a581bac3ea15dbd87e31406a0ea8c0af0)
+
+DON needed for encouragement, how can you cheat Donation? They need to be shared, rewarding others for the work done or for their contribution, as a donation. However, if you need to sell an Donation Jetton, follow the instructions:
+
+![Dedust](/img/dedust.png)
+
+Open [dedust.io](https://dedust.io/dex) 
+
+![Connect](/img/connect.png)
+
+Choose a Wallet
+
+![Address](/img/address.png)
+
+Add address Donation Jetton `EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR`
+
+![Check](/img/check.png)
+
+Change pair DON / TON
+
+![Enter](/img/enter.png)
+
+enter the required amount Donation and press `Swap`
 
 
-## Tokenomics
+![Enter](/img/confirm2.png)
+
+Waiting confirmation
+
+![Enter](/img/received2.png)
+
+Perfect!
 
 ## License
 [CC0](https://github.com/mir-one/donation/blob/main/LICENSE)
