@@ -942,5 +942,12 @@ Waiting confirmation
 
 Perfect!
 
+![image](https://user-images.githubusercontent.com/24755187/217853043-f5292d1d-7c3c-43bc-b46e-90fb6c892f96.png)
+
+## Assets
+Image: [Source](https://user-images.githubusercontent.com/24755187/217853043-f5292d1d-7c3c-43bc-b46e-90fb6c892f96.png)
+Emoji: ```🙏```
+Color background:  ```#0088cc```
+
 ## License
 [CC0](https://github.com/mir-one/donation/blob/main/LICENSE)
